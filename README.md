@@ -15,10 +15,10 @@
 
 ## 🌱 What I Do
 
-- Build fast, modern web applications
-- Develop responsive and dynamic user interfaces
-- Integrate APIs and handle backend logic
-- Work on personal projects and contribute to open source
+- Develop full stack web applications (frontend + backend)
+- Build responsive UIs with React / Next.js
+- Create robust APIs with Node.js / Express
+- Handle data using both **SQL** (PostgreSQL, MySQL) and **NoSQL** (MongoDB, Firebase)
 
 
 
