@@ -25,7 +25,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: [njatotianafiononana@gmail.com]
-- 💼 LinkedIn: [My linkedin](https://www.linkedin.com/in/njatotiana-fiononana-andriamanirisoa-a81a00265)
+- 💼 LinkedIn: [Njatotiana Fiononana ANDRIAMANIRISOA](https://www.linkedin.com/in/njatotiana-fiononana-andriamanirisoa-a81a00265)
 - 🌐 Portfolio: [My website](https://njatoty-lime.vercel.app)
 
 ---
