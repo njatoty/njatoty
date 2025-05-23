@@ -2,7 +2,7 @@
 
 🚀 A passionate **JavaScript | TypeScript | Node.js | React | Next.js** developer.
 
----
+
 
 ## 🛠️ Skills
 
@@ -11,7 +11,7 @@
 - 🧰 Tools: Git, GitHub, VS Code, Postman
 - 📝 Languages: JavaScript, TypeScript
 
----
+
 
 ## 🌱 What I Do
 
@@ -20,7 +20,7 @@
 - Integrate APIs and handle backend logic
 - Work on personal projects and contribute to open source
 
----
+
 
 ## 📫 Contact Me
 
@@ -28,6 +28,5 @@
 - 💼 LinkedIn: [Njatotiana Fiononana ANDRIAMANIRISOA](https://www.linkedin.com/in/njatotiana-fiononana-andriamanirisoa-a81a00265)
 - 🌐 Portfolio: [My website](https://njatoty-lime.vercel.app)
 
----
 
 Thanks for visiting my profile! Feel free to follow me or reach out. 🙌
