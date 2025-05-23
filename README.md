@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Njatoty
+# 👋 Hello, I'm Njato
 
 🚀 A passionate **JavaScript | TypeScript | Node.js | React | Next.js** developer.
 
