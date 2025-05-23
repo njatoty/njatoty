@@ -24,9 +24,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [[linkedin.com/in/njatoty](https://linkedin.com/in/njatoty)](https://www.linkedin.com/in/njatotiana-fiononana-andriamanirisoa-a81a00265)
-- 🌐 Portfolio: [https://your-website.com](https://njatoty-lime.vercel.app)
+- 📧 Email: [njatotianafiononana@gmail.com]
+- 💼 LinkedIn: [My linkedin](https://www.linkedin.com/in/njatotiana-fiononana-andriamanirisoa-a81a00265)
+- 🌐 Portfolio: [My website](https://njatoty-lime.vercel.app)
 
 ---
 
