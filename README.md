@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hi there, I'm **Njato**  
+# 👋 Hi there, I'm **Njato**
+
 🚀 Passionate Full Stack Developer | JavaScript, TypeScript, React, Node.js
 
 ![Profile Views](https://komarev.com/ghpvc/?username=njatoty&color=blue)  
@@ -8,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njatotiana-fiononana-andriamanirisoa-a81a00265)
 
 </div>
-
 
 ## 🛠️ Tech Stack
 
@@ -21,24 +21,30 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend & APIs:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-031c03?style=flat-square&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
 
 **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2D2D2D?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0a2638?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-2D2D2D?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-20232A?style=flat-square&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-031c03?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-4d3d0f?style=flat-square&logo=firebase)
 
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-2D2D2D?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-4d3d0f?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0a2638?style=flat-square&logo=typescript)
 
 **Tools:**  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-2D2D2D?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-36170e?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-2D2D2D?style=flat-square&logo=postman)
+![Postman](https://img.shields.io/badge/-Postman-36170e?style=flat-square&logo=postman)
 
+**Testing:**  
+![Jest](https://img.shields.io/badge/-Jest-822235?style=flat-square&logo=jest)
+![React Testing Library](https://img.shields.io/badge/-Testing%20Library-823a22?style=flat-square&logo=testinglibrary)
 
 ## 🌱 What I Do
 
@@ -48,13 +54,11 @@
 - 🧠 Work with **SQL** (PostgreSQL, MySQL) and **NoSQL** (MongoDB, Firebase)
 - 📦 Manage code with **Git** and collaborate on GitHub
 
-
 ## 📫 Contact Me
 
 📧 Email: [njatotianafiononana@gmail.com](mailto:njatotianafiononana@gmail.com)  
 🌐 Portfolio: [njatoty-lime.vercel.app](https://njatoty-lime.vercel.app)  
 💼 LinkedIn: [Njatotiana Fiononana ANDRIAMANIRISOA](https://www.linkedin.com/in/njatotiana-fiononana-andriamanirisoa-a81a00265)
-
 
 <div align="center">
   
