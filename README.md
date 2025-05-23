@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm Njatoty
 
-<!--
-**njatoty/njatoty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate **JavaScript | TypeScript | Node.js | React | Next.js** developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- 🧠 Frontend: React, Next.js, HTML, CSS, Tailwind
+- ⚙️ Backend: Node.js, Express, REST APIs
+- 🧰 Tools: Git, GitHub, VS Code, Postman
+- 📝 Languages: JavaScript, TypeScript
+
+---
+
+## 🌱 What I Do
+
+- Build fast, modern web applications
+- Develop responsive and dynamic user interfaces
+- Integrate APIs and handle backend logic
+- Work on personal projects and contribute to open source
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [your.email@example.com]
+- 💼 LinkedIn: [[linkedin.com/in/njatoty](https://linkedin.com/in/njatoty)](https://www.linkedin.com/in/njatotiana-fiononana-andriamanirisoa-a81a00265)
+- 🌐 Portfolio: [https://your-website.com](https://njatoty-lime.vercel.app)
+
+---
+
+Thanks for visiting my profile! Feel free to follow me or reach out. 🙌
