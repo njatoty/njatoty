@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm **Njato**
 
-🚀 Passionate Full Stack Developer | JavaScript, TypeScript, React, Node.js
+Passionate Full Stack Developer | JavaScript, TypeScript, React, Node.js
 
 ![Profile Views](https://komarev.com/ghpvc/?username=njatoty&color=blue)  
 [![Portfolio](https://img.shields.io/badge/-Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://njatoty-lime.vercel.app)
@@ -10,7 +10,7 @@
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
@@ -46,22 +46,22 @@
 ![Jest](https://img.shields.io/badge/-Jest-822235?style=flat-square&logo=jest)
 ![React Testing Library](https://img.shields.io/badge/-Testing%20Library-823a22?style=flat-square&logo=testinglibrary)
 
-## 🌱 What I Do
+## What I Do
 
-- 🔧 Build **full stack web apps** using React / Next.js & Node.js
-- 💻 Design **responsive UIs** and seamless user experiences
-- 🔌 Develop **robust APIs** with Express and REST principles
-- 🧠 Work with **SQL** (PostgreSQL, MySQL) and **NoSQL** (MongoDB, Firebase)
-- 📦 Manage code with **Git** and collaborate on GitHub
+- Build **full stack web apps** using React / Next.js & Node.js
+- Design **responsive UIs** and seamless user experiences
+- Develop **robust APIs** with Express and REST principles
+- Work with **SQL** (PostgreSQL, MySQL) and **NoSQL** (MongoDB, Firebase)
+- Manage code with **Git** and collaborate on GitHub
 
-## 📫 Contact Me
+## Contact Me
 
-📧 Email: [njatotianafiononana@gmail.com](mailto:njatotianafiononana@gmail.com)  
-🌐 Portfolio: [njatoty-lime.vercel.app](https://njatoty-lime.vercel.app)  
-💼 LinkedIn: [Njatotiana Fiononana ANDRIAMANIRISOA](https://www.linkedin.com/in/njatotiana-fiononana-andriamanirisoa-a81a00265)
+Email: [njatotianafiononana@gmail.com](mailto:njatotianafiononana@gmail.com)  
+Portfolio: [njatoty-lime.vercel.app](https://njatoty-lime.vercel.app)  
+LinkedIn: [Njatotiana Fiononana ANDRIAMANIRISOA](https://www.linkedin.com/in/njatotiana-fiononana-andriamanirisoa-a81a00265)
 
 <div align="center">
   
-_Thanks for stopping by! Let's connect and build something awesome together._ 🙌
+Thanks for stopping by! Let's connect and build something awesome together.
 
 </div>
