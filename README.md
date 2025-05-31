@@ -42,10 +42,6 @@ Passionate Full Stack Developer | JavaScript, TypeScript, React, Node.js
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-36170e?style=flat-square&logo=postman)
 
-**Testing:**  
-![Jest](https://img.shields.io/badge/-Jest-822235?style=flat-square&logo=jest)
-![React Testing Library](https://img.shields.io/badge/-Testing%20Library-823a22?style=flat-square&logo=testinglibrary)
-
 ## What I Do
 
 - Build **full stack web apps** using React / Next.js & Node.js
